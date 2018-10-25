@@ -28,8 +28,6 @@ def banner():
 
       <number 1-4>                       run tool from above
 
-      <num1-4> help                      show info about tool
-
       chkupdate                          check for update
 
       logout                             remove API credentials
